@@ -54,6 +54,9 @@ https://github.com/fr1kin/ForgeHax/releases/download/1.16.5-3.3.1/Release.zip
 https://github.com/Fentanull/YakGod.cc/releases/download/b1.3.2/YakGod.cc.jar
 					     YakGod.cc b1.3.2
 
+https://github.com/WurstPlus/wurstplus-two/releases/download/v1.0/WurstPlusTwo.jar
+					     Wurst+ 2
+
 https://github.com/dewysoftwareleaks/Ruhama/releases/download/b0.8/ruhama-b0.8-all.jar
 					     RuHaMa b0.8
 
