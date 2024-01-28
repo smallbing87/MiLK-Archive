@@ -18,11 +18,11 @@ https://github.com/3arthh4ckDevelopment/3arthh4ck-client/releases/
 https://github.com/CreepyOrb924/creepy-salhack/releases/
 					     Creepy Salhack (good)
 
-https://impactclient.net/download?platform=exe/
-					     Impact installer
+https://impactclient.net/download/
+					     Impact
 
-https://gitlab.com/Aristois/Installer/builds/artifacts/master/raw/packager/Aristois-Free.jar?job=build/
-					     Aristois installer
+https://aristois.net/download/
+					     Aristois
 
 https://dl.ccbluex.net/download/knmcKpakSK/
 					     LiquidBounce b73 (lol)
