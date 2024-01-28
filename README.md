@@ -17,7 +17,7 @@ https://www.mediafire.com/folder/jbixx9d7ttpum/anticheats
 back-up  
 https://cheatcl.web.app/minecraft/more/reup/milkac
 
-anarchy client archive (no cracks/leaks/rats included)  
+1.12.2 anarchy client archive (no cracks/leaks/rats included)  
 https://raw.githubusercontent.com/smallbing87/MiLK-Archive/main/anarchy.txt  
 mediafire  
 https://www.mediafire.com/folder/xtqvkji136is7/anarchy+clients  
