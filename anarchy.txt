@@ -28,7 +28,7 @@ https://mimhax.netlify.app/Files/xulu.jar
 					     Xulu
 
 https://dl.ccbluex.net/download/knmcKpakSK
-					     LiquidBounce b73 (lol)
+					     LiquidBounce b73
 
 https://mimhax.netlify.app/Files/phobos.jar
 					     Phobos 1.9.0
@@ -94,7 +94,7 @@ https://github.com/IUDevman/gamesense-client/releases/download/d2.3.1/gamesense-
 					     GameSense 2.3.1
 
 https://github.com/Wurst-Imperium/Wurst-MCX2/releases/download/v6.35.3/Wurst-Client-v6.35.3-MC1.12-OF.zip
-					     Wurst v6.35.3 (lol)
+					     Wurst v6.35.3
 
 https://github.com/colorblindness/3arthh4ck/releases/download/latest/3arthh4ck-1.3.1-b8e846afcdae-release.jar
 					     3arthh4ck 1.3.1
