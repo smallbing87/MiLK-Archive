@@ -1,6 +1,6 @@
 # MiLK-Archive
 
-archives archive  
+milk archive  
 https://discord.gg/UDFgeWKVjc
 
 forge client archive  
