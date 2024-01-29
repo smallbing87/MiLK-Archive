@@ -21,7 +21,7 @@ back-up
 https://cheatcl.web.app/minecraft/more/reup/milkac
 
 1.12.2 anarchy client archive  
-(THIS ARCHIVE HAS BEEN DISCONTINUED)
+(this archive will be discontinue soon)
 https://docs.google.com/spreadsheets/d/1l9f1eXI6of0sBSuIdfAKPv3C_XTyjdxKQ3sr2k7-RYc
 txt
 https://raw.githubusercontent.com/smallbing87/MiLK-Archive/main/anarchy.txt  
