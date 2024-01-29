@@ -34,6 +34,12 @@ https://lol.hovac.fun/archive/cheatsgq
 alternative
 https://docs.google.com/spreadsheets/d/1GtPaAMSHlKLjEUHS2jq3uOJi24P1Y4ctnqJ4N4OsrUw
 
+# Chocopie
+github
+https://github.com/chocopie69/chocopie69
+discord
+https://discord.com/invite/6Zfhjcp8Vp
+
 # Client Hall Of Fame
 github
 https://github.com/Spinyfish/Client-Hall-Of-Fame
@@ -59,6 +65,10 @@ backup
 https://discord.gg/j9xk4Zy5Tm
 website
 https://fled.carrd.co
+
+# Ghxstxng
+website
+https://sites.google.com/view/ghxstxng
 
 # Farr's Crack House
 discord (sus verify system, join at your own risk)
@@ -126,6 +136,10 @@ https://discord.gg/mHb88q3B
 download
 https://www.mediafire.com/file/bp5g9ogpwgk2byd/MCCLoader.zip/file
 
+# Meteor Archive
+website
+https://maninmyvan.github.io/meteor-archive
+
 # Mimhax
 website
 https://mimhax.netlify.app
@@ -135,6 +149,14 @@ https://mimhax-legacy.netlify.app
 # Mod Index
 discord
 https://discord.gg/9KXyhmBTm7
+
+# Napolious
+github
+https://github.com/Napoleon-x/Client-Source-Code-Collection
+
+# Nosshe
+discord
+https://discord.gg/4KHrqEuMHF
 
 # PlutoSolutions
 github
@@ -155,6 +177,10 @@ discord
 https://discord.gg/c6qscuxpyB
 github
 https://github.com/WalmartSolutions
+
+# Utility Mods
+github
+https://github.com/UtilityMods/Index
 
 # WonderLand Library
 discord
