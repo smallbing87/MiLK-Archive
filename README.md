@@ -2,7 +2,6 @@
 
 milk archive  
 https://discord.gg/UDFgeWKVjc  
-https://raw.githubusercontent.com/smallbing87/MiLK-Archive/main/archives.txt
 
 forge client archive  
 (suspicious files will be labeled)  
@@ -19,14 +18,6 @@ mediafire
 https://www.mediafire.com/folder/jbixx9d7ttpum/anticheats  
 back-up  
 https://cheatcl.web.app/minecraft/more/reup/milkac
-
-1.12.2 anarchy client archive  
-(this archive will be discontinue soon)
-https://docs.google.com/spreadsheets/d/1l9f1eXI6of0sBSuIdfAKPv3C_XTyjdxKQ3sr2k7-RYc
-txt
-https://raw.githubusercontent.com/smallbing87/MiLK-Archive/main/anarchy.txt  
-mediafire  
-https://www.mediafire.com/folder/xtqvkji136is7/anarchy+clients  
 
 all of the archives are made by meowaura  
 please ask me before taking any of my works to your own project  
