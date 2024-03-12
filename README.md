@@ -22,8 +22,8 @@ https://cheatcl.web.app/minecraft/more/reup/milkac
 phobos archive   
 (only 3arthh4ck clients are checked)   
 https://github.com/smallbing87/every-phobos   
-mediafire (only 3arthh4ck are archived right now)   
-https://www.mediafire.com/folder/rbnp5khaxm06v/3arthh4ck   
+mediafire   
+https://www.mediafire.com/folder/0yv9u5c7whqrp/phobos   
    
 discontinued projects  
 every free anarchy clients  
