@@ -28,8 +28,6 @@ https://www.mediafire.com/folder/0yv9u5c7whqrp/phobos
 discontinued projects  
 every free anarchy clients  
 https://github.com/smallbing87/MiLK-Archive/blob/main/anarchy.txt  
-songs of boywithuke for 5 hours straight  
-https://www.mediafire.com/file/lv6p28swcwmvpaw/boi.zip/file  
 good megumin texture packs  
 https://www.mediafire.com/file/1jmgd4kx2pmw0sd/megumin_packs.rar/file  
 
