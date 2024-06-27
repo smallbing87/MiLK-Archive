@@ -17,19 +17,7 @@ https://docs.google.com/spreadsheets/d/1LEjIb9Kh-0TnjjCAG-BsDuANEFchLAkNesGUqpZa
 mediafire  
 https://www.mediafire.com/folder/jbixx9d7ttpum/anticheats  
 back-up (not always up to date)  
-https://cheatcl.web.app/minecraft/more/reup/milkac  
-  
-phobos archive   
-(only 3arthh4ck clients are checked)   
-https://github.com/smallbing87/every-phobos   
-mediafire   
-https://www.mediafire.com/folder/0yv9u5c7whqrp/phobos   
-   
-discontinued projects  
-every free anarchy clients  
-https://github.com/smallbing87/MiLK-Archive/blob/main/anarchy.txt  
-good megumin texture packs  
-https://www.mediafire.com/file/1jmgd4kx2pmw0sd/megumin_packs.rar/file  
+https://cheatcl.web.app/minecraft/more/reup/milkac 
 
 all of the archives are made by meowaura  
 please ask me before taking any of my works to your own project  
