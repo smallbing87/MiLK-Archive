@@ -19,6 +19,18 @@ https://www.mediafire.com/folder/jbixx9d7ttpum/anticheats
 back-up (not always up to date)  
 https://cheatcl.web.app/minecraft/more/reup/milkac 
 
+good anticheat collection  
+https://github.com/smallbing87/Free-Anticheats  
+
+meteor addons archive  
+https://github.com/smallbing87/Meteor-addons  
+
+haru client archive  
+https://github.com/smallbing87/Haru-Archive  
+
+1.12.2 client archive  
+https://github.com/smallbing87/1.12-clients  
+
 all of the archives are made by meowaura  
 please ask me before taking any of my works to your own project  
 my discord: meowaura#0000  
