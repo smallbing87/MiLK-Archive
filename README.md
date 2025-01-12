@@ -33,5 +33,5 @@ https://github.com/smallbing87/Free-Anticheats
 all of the archives are made by meowaura  
 please ask me before taking any of my works to your own project  
 my discord: meowaura#0000  
-my server: https://discord.gg/pK9J3T4xvF  
+my server: https://discord.gg/gatober  
 my channel: https://youtube.com/@zNovember
