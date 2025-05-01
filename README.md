@@ -24,13 +24,13 @@ https://github.com/smallbing87/Haru-Archive
 meteor addons archive  
 https://github.com/smallbing87/Meteor-addons  
 
-1.12.2 client archive  
+1.12.2 clients archive  
 https://github.com/smallbing87/1.12-clients  
 
 every 3arthh4ck archive  
 https://www.mediafire.com/folder/rbnp5khaxm06v/3arthh4ck
 
-good free anticheat collection  
+good free anticheats collection  
 https://github.com/smallbing87/Free-Anticheats  
 
 all of the archives are made by meowaura  
