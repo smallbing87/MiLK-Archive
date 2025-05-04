@@ -15,8 +15,11 @@ https://docs.google.com/spreadsheets/d/1LEjIb9Kh-0TnjjCAG-BsDuANEFchLAkNesGUqpZa
 mediafire  
 https://www.mediafire.com/folder/jbixx9d7ttpum/anticheats  
 
-mcsr extra mods archive    
-https://github.com/smallbing87/mcsr-extra-mods    
+mcsr extra mods archive  
+https://github.com/smallbing87/mcsr-extra-mods  
+
+mcsr maps archive  
+https://github.com/smallbing87/mcsr-maps  
 
 haru client archive  
 https://github.com/smallbing87/Haru-Archive  
